@@ -1,0 +1,7 @@
+29.12.2025
+1.0 basic version. Export to PDF.
+
+30.12.2025
+1.1 we have color palettes and HEX color input for the text fields, crossed markers to help position the text fields, fixed the fonts list. Export to PDF or PNG.
+1.2 added PNG import. Exports to PDF if PDF template was used, exports to PNG with any initial template.
+1.3 changed all coordinates to mm for A4 format. Automatic DPI recognition. Added book/album orientation detection. Only PDF 150 dpi is allowed as input.
